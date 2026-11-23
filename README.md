@@ -1,6 +1,4 @@
-![Biopilot CLI – Terminal autocompletion tool](./banner.png)
-
-# Abdoul Batinou DEDJI
+![Biopilot CLI – Terminal autocompletion tool](./Biopilot%20cli%20github_readme.png)
 
 **Genomics | Bioinformatics | Scientific Software**
 
